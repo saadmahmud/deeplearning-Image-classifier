@@ -10,4 +10,4 @@ This image classifier app can take image from webcam as input and set as a class
 * knnClassifier
 * mobileNet
 
-... Happy coding.. :) 
+... Happy coding..!!
